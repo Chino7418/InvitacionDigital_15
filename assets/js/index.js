@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const menores13_17 = document.getElementById("menores13-17").value.trim();
         const menores3_12 = document.getElementById("menores3-12").value.trim();
 
-        const numeroWhatsApp = "5493516426244"; // <-- poné el número real acá
+        const numeroWhatsApp = "5493513074372"; // <-- poné el número real acá
 
         const mensaje = `Hola! Soy ${nombre}. Confirmo asistencia al cumple de Pilar 🎉.
         👨‍👩‍👧‍👦 Mayores: ${mayores}
