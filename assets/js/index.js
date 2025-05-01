@@ -1,6 +1,6 @@
 
 // Fecha del evento
-const targetDate = new Date("August 23, 2025 21:30:00").getTime();
+const targetDate = new Date("August 23, 2025 21:00:00").getTime();
 
 const countdown = document.getElementById("countdown");
 
